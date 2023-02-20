@@ -5,7 +5,8 @@
 -    [ **Introducción** ](#introducción)
 -    [ **Sobre el examen** ](#sobre-el-examen)
 -    [ **Diagrama UML** ](#diagrama-uml)
--    [ **Salida de la aplicación** ](#salida de la aplicación)
+-    [ **Salida de la aplicación** ](#salida-de-la-aplicación)
+
 
 ##  Introducción
 
@@ -19,7 +20,7 @@ StockX nació en Detroit, y allí todavía hacen las cosas de la manera tradicio
 
 ##  Diagrama UML
 
-![ "Diagrama de clases UML" ](./docs/diagram_uml_stock_ascii.png "Diagrama de clases UML")
+![ "Diagrama de clases UML" ](diagrama_clases_UML_inked.jpg "Diagrama de clases UML")
 
 ##  Salida de la aplicación
 
